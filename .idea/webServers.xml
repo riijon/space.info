@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7962286a-27b9-40ca-be8c-22063e58309e" name="space.hc" url="http://ssl508.heteml.jp">
+        <fileTransfer host="ssl508.heteml.jp" port="21" rootFolder="/web/spacehc.info">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
