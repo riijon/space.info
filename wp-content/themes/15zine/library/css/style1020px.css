@@ -596,7 +596,7 @@ article.sticky .cb-mask:before {
   font-size: 10px;
   letter-spacing: 1px;
   display: inline-block;
-  font-weight: 700;
+  font-weight: 500;
 }
 
 .cb-body-light .cb-alp-ld {
@@ -1403,7 +1403,7 @@ H1, H2, H3, H4, H5 STYLES
 h1, h2, h3, h4, h5 {
   font-family: sans-serif;
   text-rendering: optimizelegibility;
-  font-weight: 700;
+  font-weight: 500;
   line-height: 1.3;
 }
 h1 a, h2 a, h3 a, h4 a, h5 a {
@@ -1424,7 +1424,7 @@ h3 {
 
 h4 {
   font-size: 1.3em;
-  font-weight: 700;
+  font-weight: 500;
 }
 
 h5 {
@@ -1565,7 +1565,7 @@ POST CONTENT
 
 .cb-first-drop .cb-entry-content .cb-itemprop > p:first-of-type:first-letter, .cb-first-drop .cb-entry-content > p:first-of-type:first-letter {
   font-size: 6em;
-  font-weight: 700;
+  font-weight: 500;
   float: left;
   line-height: 1;
   margin: 0 20px 0 0;
@@ -1577,7 +1577,7 @@ POST CONTENT
 
 .cb-dropcap-big {
   font-size: 6em;
-  font-weight: 700;
+  font-weight: 500;
   float: left;
   line-height: 1;
   margin: 0 20px 0 0;
@@ -1604,7 +1604,7 @@ POST LIST STYLE A
 }
 .cb-post-list .cb-meta h2 {
   margin: 0 0 5px 0;
-  font-weight: 700;
+  font-weight: 500;
   letter-spacing: 2px;
 }
 .cb-post-list .cb-meta .cb-excerpt {
@@ -1632,7 +1632,7 @@ SIDEBAR STYLES
 .cb-widget-title {
   margin: 0 0 30px 0;
   text-transform: uppercase;
-  font-weight: 700;
+  font-weight: 500;
   font-size: 20px;
   position: relative;
   padding-bottom: 10px;
@@ -1665,7 +1665,7 @@ PAGINATION
   color: #5A5A5A;
   text-transform: uppercase;
   letter-spacing: 1px;
-  font-weight: 700;
+  font-weight: 500;
   text-align: center;
 }
 .cb-no-more-posts span {
@@ -1678,7 +1678,7 @@ PAGINATION
 .cb-pagination-button {
   text-transform: uppercase;
   letter-spacing: 2px;
-  font-weight: 700;
+  font-weight: 500;
   text-align: center;
   float: left;
   width: 100%;
@@ -1720,7 +1720,7 @@ PAGINATION
 }
 .cb-pagination a, .cb-pagination .current, .cb-pagination > .cb-page {
   padding: 5px 12px;
-  font-weight: 700;
+  font-weight: 500;
   font-size: 9px !important;
   display: inline-block;
   margin: 0 10px 10px 0;
@@ -1826,7 +1826,7 @@ MENU STYLES
   text-transform: uppercase;
   line-height: 40px;
   height: 40px;
-  font-weight: 700;
+  font-weight: 500;
   font-size: 12px;
   letter-spacing: 1px;
   position: relative;
@@ -2051,7 +2051,7 @@ MENU STYLES
 }
 .cb-mob-menu .cb-mob-menu-wrap ul .cb-icon-plus:after {
   content: '+';
-  font-weight: 700;
+  font-weight: 500;
 }
 .cb-mob-menu .cb-mob-menu-wrap ul .cb-selected:after {
   content: '-';
@@ -2064,7 +2064,7 @@ MENU STYLES
 .cb-mob-menu .cb-mob-menu-wrap ul li a {
   text-transform: uppercase;
   letter-spacing: 1px;
-  font-weight: 700;
+  font-weight: 500;
   text-decoration: none;
   color: #f2f2f2;
 }
@@ -2368,7 +2368,7 @@ MODULE STYLES
   overflow: hidden;
   position: relative;
   margin-bottom: 30px;
-  font-weight: 700;
+  font-weight: 500;
 }
 .cb-module-header .cb-module-title {
   margin: 0;
@@ -2442,7 +2442,7 @@ MODULE STYLES
 .cb-module-block .cb-post-title {
   text-transform: uppercase;
   letter-spacing: 2px;
-  font-weight: 700;
+  font-weight: 500;
   margin: 0 0 5px;
   font-size: 16px;
 }
@@ -2790,7 +2790,7 @@ MODULE STYLES
 }
 .cb-meta-style-1 .cb-article-meta h2, .cb-meta-style-5 .cb-article-meta h2 {
   margin: 0 0 5px;
-  font-weight: 700;
+  font-weight: 500;
   text-transform: uppercase;
   letter-spacing: 2px;
   font-size: 18px;
@@ -2846,7 +2846,7 @@ MODULE STYLES
 }
 .cb-meta-style-2 .cb-article-meta h2 {
   margin: 0 0 10px;
-  font-weight: 700;
+  font-weight: 500;
   text-transform: uppercase;
   letter-spacing: 1px;
   font-size: 14px;
@@ -2886,7 +2886,7 @@ MODULE STYLES
 }
 .cb-meta-style-4 .cb-article-meta h2 {
   margin: 0 0 5px;
-  font-weight: 700;
+  font-weight: 500;
   text-transform: uppercase;
   letter-spacing: 1px;
   font-size: 16px;
@@ -2917,7 +2917,7 @@ MODULE STYLES
   font-size: 14px;
   text-transform: uppercase;
   letter-spacing: 2px;
-  font-weight: 700;
+  font-weight: 500;
   margin: 0;
 }
 
@@ -2929,7 +2929,7 @@ WIDGET STYLES
 ******************************************************************/
 .widget_tag_cloud a, .tags-title, .cb-tags a, .bbp-topic-tags a {
   padding: 5px 10px;
-  font-weight: 700;
+  font-weight: 500;
   font-size: 9px !important;
   display: inline-block;
   margin: 0 10px 10px 0;
@@ -2984,7 +2984,7 @@ WIDGET STYLES
   margin-top: 0;
   position: relative;
   color: #161616;
-  font-weight: 700;
+  font-weight: 500;
 }
 .widget_search .cb-search .cb-search-field {
   width: 100%;
@@ -3073,7 +3073,7 @@ WIDGET STYLES
   letter-spacing: 2px;
   text-transform: uppercase;
   font-size: 14px;
-  font-weight: 700;
+  font-weight: 500;
 }
 #wp-calendar thead, #wp-calendar tfoot {
   background-color: #E4E4E4;
@@ -3212,7 +3212,7 @@ WIDGET STYLES
   text-align: center;
   display: inline-block;
   letter-spacing: 1px;
-  font-weight: 700;
+  font-weight: 500;
   text-transform: uppercase;
   padding: 10px;
   line-height: 1.2;
@@ -3300,7 +3300,7 @@ FOOTER STYLES
 #cb-footer .cb-footer-lower {
   padding: 40px 20px;
   font-size: 10px;
-  font-weight: 700;
+  font-weight: 500;
   text-align: center;
   letter-spacing: 3px;
   text-transform: uppercase;
@@ -3365,7 +3365,7 @@ BY LINE
 .cb-byline {
   font-size: 10px;
   letter-spacing: 2px;
-  font-weight: 700;
+  font-weight: 500;
   width: 100%;
   display: block;
   margin: 0 0 15px;
@@ -3481,7 +3481,7 @@ POST META
 .cb-post-meta {
   font-size: 8px;
   letter-spacing: 1px;
-  font-weight: 700;
+  font-weight: 500;
   margin: 15px 0 0 0;
   text-transform: uppercase;
   float: left;
@@ -3536,7 +3536,7 @@ FEATURED IMAGE STYLES
 }
 .cb-fis h1 {
   text-transform: uppercase;
-  font-weight: 700;
+  font-weight: 500;
   letter-spacing: 3px;
   font-size: 16px;
   color: #161616;
@@ -4017,7 +4017,7 @@ POST FOOTER BLOCKS
 ******************************************************************/
 .cb-article-footer .cb-title, .cb-article-footer #reply-title {
   text-transform: uppercase;
-  font-weight: 700;
+  font-weight: 500;
   letter-spacing: 2px;
 }
 .cb-article-footer .cb-title-header {
@@ -4045,10 +4045,10 @@ REVIEW STYLES
   text-transform: uppercase;
   font-size: 16px;
   margin: 0 0 20px 0;
-  font-weight: 700;
+  font-weight: 500;
 }
 .cb-review-box .cb-bar {
-  font-weight: 700;
+  font-weight: 500;
   width: 100%;
   margin: 0 0 25px 0;
   position: relative;
@@ -4126,7 +4126,7 @@ REVIEW STYLES
   margin-bottom: 10px;
   color: #6a6a6a;
   display: block;
-  font-weight: 700;
+  font-weight: 500;
 }
 .cb-review-box .cb-pros-cons .cb-pro:before {
   content: "+ ";
@@ -4147,7 +4147,7 @@ REVIEW STYLES
   width: 130px;
   min-height: 110px;
   border: 3px solid;
-  font-weight: 700;
+  font-weight: 500;
 }
 .cb-review-box .cb-score-box > span {
   line-height: 1;
@@ -4224,7 +4224,7 @@ COMMENTS
   font-style: normal;
   display: block;
   font-size: 16px;
-  font-weight: 700;
+  font-weight: 500;
   letter-spacing: 2px;
 }
 .commentlist .comment .cb-comment-body .comment-author time a {
@@ -4236,16 +4236,16 @@ COMMENTS
 .commentlist .comment .cb-comment-body .comment-reply-link, .commentlist .comment .cb-comment-body .comment-edit-link {
   font-size: 12px;
   letter-spacing: 1px;
-  font-weight: 700;
+  font-weight: 500;
 }
 .commentlist .comment .cb-comment-body .alert p {
   margin: 15px 0;
-  font-weight: 700;
+  font-weight: 500;
   font-size: 0.6em;
   letter-spacing: 2px;
   text-transform: uppercase;
   display: block;
-  font-weight: 700;
+  font-weight: 500;
 }
 .commentlist .comment #respond {
   padding-left: 40px;
@@ -4285,7 +4285,7 @@ COMMENTS
   text-transform: uppercase;
   margin: 0 0 20px 0;
   display: block;
-  font-weight: 700;
+  font-weight: 500;
 }
 #commentform #submit {
   font-size: 12px;
@@ -4392,7 +4392,7 @@ PREVIOUS/NEXT LINKS
 .cb-next-previous .cb-next-previous-block {
   width: 100%;
   line-height: 1.2;
-  font-weight: 700;
+  font-weight: 500;
 }
 .cb-next-previous .cb-next-previous-block .cb-read-title {
   text-transform: uppercase;
@@ -4432,7 +4432,7 @@ BREADCRUMBS
   width: 100%;
   font-size: 11px;
   letter-spacing: 2px;
-  font-weight: 700;
+  font-weight: 500;
   margin: 0 0 20px 0;
 }
 .cb-breadcrumbs div {
@@ -4578,7 +4578,7 @@ CONTACT PAGE STYLES
   text-transform: uppercase;
   color: #4D4D4D;
   display: block;
-  font-weight: 700;
+  font-weight: 500;
   margin: 40px 0;
 }
 
@@ -4596,7 +4596,7 @@ CONTACT PAGE STYLES
   text-transform: uppercase;
   margin: 0 0 20px 0;
   display: block;
-  font-weight: 700;
+  font-weight: 500;
   font-size: 12px;
   width: auto;
   padding: 10px 20px;
@@ -4634,7 +4634,7 @@ CONTACT PAGE STYLES
   text-transform: uppercase;
   position: relative;
   margin: 40px 0;
-  font-weight: 700;
+  font-weight: 500;
 }
 .cb-404-page h1 {
   margin: 5px 0;
@@ -4657,7 +4657,7 @@ REVIEW EXT BOX
   height: 50px;
   text-align: center;
   color: #fff;
-  font-weight: 700;
+  font-weight: 500;
 }
 .cb-review-ext-box .cb-bg, .cb-review-ext-box .cb-score {
   display: block;
@@ -4790,7 +4790,7 @@ AUTHOR BOX STYLE
 }
 #cb-author-box .cb-author-position {
   letter-spacing: 3px;
-  font-weight: 700;
+  font-weight: 500;
   font-size: 12px;
   line-height: 1.5;
   text-transform: uppercase;
@@ -4838,7 +4838,7 @@ MODAL STYLES
 .cb-modal input, .cb-modal .cb-subm {
   background: transparent;
   border: none;
-  font-weight: 700;
+  font-weight: 500;
   font-size: 14px;
   height: 40px;
   letter-spacing: 1px;
@@ -4869,7 +4869,7 @@ MODAL STYLES
   color: #161616;
 }
 .cb-modal .cb-modal-title {
-  font-weight: 700;
+  font-weight: 500;
   text-transform: uppercase;
   margin-bottom: 12px;
   font-size: 12px;
@@ -5066,7 +5066,7 @@ MODAL STYLES
   letter-spacing: 1px;
   text-transform: uppercase;
   font-size: 14px;
-  font-weight: 700;
+  font-weight: 500;
 }
 .cb-s-modal .cb-submit-form {
   margin-bottom: 0;
@@ -5317,7 +5317,7 @@ EXTRA STYLES
   content: "\00d7";
   display: block;
   font-size: 22px;
-  font-weight: 700;
+  font-weight: 500;
   line-height: 30px;
   margin: auto;
   text-align: center;
@@ -5580,7 +5580,7 @@ EXTRA STYLES
 #boxer.mobile .boxer-close:hover:before {
   color: #cccccc;
   font-size: 28px;
-  font-weight: 700;
+  font-weight: 500;
   line-height: 40px;
 }
 
@@ -5699,7 +5699,7 @@ EXTRA STYLES
   margin-top: 20px;
   opacity: 0;
   pointer-events: none;
-  font-weight: 700;
+  font-weight: 500;
   letter-spacing: 2px;
   text-transform: uppercase;
   font-size: 10px;
@@ -5819,7 +5819,7 @@ SHORTCODES
   text-align: center;
   border-bottom: #e5e5e5 3px solid;
   letter-spacing: 2px;
-  font-weight: 700;
+  font-weight: 500;
   text-transform: uppercase;
   display: inline-block;
   padding: 14px 30px 15px 30px;
@@ -5858,7 +5858,7 @@ SHORTCODES
 .cb-toggler .cb-toggle {
   display: block;
   margin-bottom: 5px;
-  font-weight: 700;
+  font-weight: 500;
   letter-spacing: 1px;
 }
 .cb-toggler .cb-toggle-content {
@@ -5887,7 +5887,7 @@ SHORTCODES
 .cb-accordion a {
   letter-spacing: 1px;
   text-transform: uppercase;
-  font-weight: 700;
+  font-weight: 500;
   font-size: 14px;
   background-color: #2d2d2d;
 }
@@ -6027,7 +6027,7 @@ SHORTCODES
   text-transform: uppercase;
   padding: 7px 30px;
   font-size: 14px;
-  font-weight: 700;
+  font-weight: 500;
   background: #fff;
 }
 .cb-divider .cb-title:after {
@@ -6781,7 +6781,7 @@ SHORTCODES
     font-size: 13px;
     text-transform: uppercase;
     letter-spacing: 0;
-    font-weight: 700;
+    font-weight: 500;
     display: block;
     z-index: 25;
   }
@@ -6896,7 +6896,7 @@ SHORTCODES
   }
   #cb-nav-bar .cb-mega-menu-columns .cb-sub-menu li a {
     display: inline-block;
-    font-weight: 700;
+    font-weight: 500;
     padding: 0;
     margin: 0 0 10px 0;
   }
@@ -7034,7 +7034,7 @@ SHORTCODES
   #cb-nav-bar .cb-mega-posts .cb-title {
     font-size: 14px;
     letter-spacing: 3px;
-    font-weight: 700;
+    font-weight: 500;
   }
   #cb-nav-bar .cb-mega-posts {
     text-align: center;
@@ -8496,7 +8496,7 @@ SHORTCODES
   }
 
   #cb-footer {
-    width: auto;
+    /*width: auto;*/
   }
 
   .cb-fis-big-border.cb-menu-light #cb-nav-bar .cb-main-nav {

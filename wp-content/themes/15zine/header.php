@@ -98,6 +98,8 @@
         <?php } ?>
 
 		<link rel="pingback" href="<?php bloginfo('pingback_url'); ?>">
+		<script src="https://use.typekit.net/enh8nmq.js"></script>
+		<script>try{Typekit.load({ async: true });}catch(e){}</script>
 
 		<?php  if ( has_nav_menu( 'main' ) ) {
 
@@ -113,6 +115,7 @@
                     );
 				}
 		?>
+		<link rel="stylesheet" href="https://use.typekit.net/enh8nmq.css">
 
 		<!-- head extras -->
 		<?php wp_head(); ?>

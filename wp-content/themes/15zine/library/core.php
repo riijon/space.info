@@ -508,7 +508,8 @@ if ( ! function_exists( 'cb_fonts' ) ) {
 
 if ( ! function_exists( 'cb_font_styler' ) ) {
     function cb_font_styler() {
-       $cb_output = cb_fonts();
+//       $cb_output = cb_fonts();
+       $cb_output = '';
 
        echo $cb_output[1];
     }
