@@ -64,13 +64,13 @@ for ($i = 8; $i <= 32; $i = $i + 8) {
         <h2 class="rl">七五三プラン</h2>
         <div class="circle"></div>
         <div class="photo-box"><img src="<?php echo get_template_directory_uri(); ?>/library/images/1x/0319-3.JPG"
-                                    alt=""></div>
+                                    alt="七五三"></div>
       </div>
       <div class="swiper-slide">
-        <h2 class="rl">七五三プラン</h2>
+        <h2 class="rl">赤ちゃんプラン</h2>
         <div class="circle"></div>
-        <div class="photo-box"><img src="<?php echo get_template_directory_uri(); ?>/library/images/1x/0319-3.JPG"
-                                    alt=""></div>
+        <div class="photo-box"><img src="<?php echo get_template_directory_uri(); ?>/library/images/1x/0430-99.JPG"
+                                    alt="赤ちゃん"></div>
       </div>
       <div class="swiper-slide">
         <h2 class="rl">七五三プラン</h2>
@@ -99,28 +99,28 @@ for ($i = 8; $i <= 32; $i = $i + 8) {
 
     <div class="nav-bar">
       <ul class="ja rl">
-        <a href="">
+        <a href="#contact">
           <li>連絡する</li>
-        </a><a href="">
+        </a><a href="#calendar">
           <li>予約する</li>
-        </a><a href="">
+        </a><a href="/space-access">
           <li>場所案内</li>
-        </a><a href="">
+        </a><a href="/space-hc">
           <li>スペースのこと</li>
-        </a><a href="">
+        </a><a href="/space-studio">
           <li>スタジオのこと</li>
         </a>
       </ul>
       <ul class="us">
-        <a href="">
+        <a href="/space-studio">
           <li>studio HC</li>
-        </a><a href="">
+        </a><a href="/space-hc">
           <li>space HC</li>
-        </a><a href="">
+        </a><a href="/space-access">
           <li>accesss</li>
-        </a><a href="">
+        </a><a href="#calendar">
           <li>reservation</li>
-        </a><a href="">
+        </a><a href="#contact">
           <li>contact</li>
         </a>
       </ul>
@@ -198,7 +198,7 @@ for ($i = 8; $i <= 32; $i = $i + 8) {
           $day = date("j", $date);
           ?>
 
-        <div class="calendar">
+        <div class="calendar" id="calendar">
           <div class="calender-icon">
             <div class="apple">
               <img class="icon_03" src="<?php echo get_template_directory_uri(); ?>/library/images/SVG/icon_03.svg"
@@ -333,15 +333,15 @@ EOM;
     </div>
 
     <div class="floor-map">
-      <img class="icon_06" src="<?php echo get_template_directory_uri(); ?>/library/images/SVG/icon_06.svg"
-           alt="icon_06.svg">
+      <img class="icon_06" src="<?php echo get_template_directory_uri(); ?>/library/images/1x/001.jpg"
+           alt="001.jpg">
     </div>
     <div class="arrow-under">
       <img class="icon_07" src="<?php echo get_template_directory_uri(); ?>/library/images/SVG/icon_07.svg"
            alt="icon_07.svg">
     </div>
 
-    <div class="contact__form">
+    <div class="contact__form" id="contact">
       <form id="contact-submit" action="mail.php" method="POST">
         <div class="contact__radio">
           <h1 class="contact__radio-title">

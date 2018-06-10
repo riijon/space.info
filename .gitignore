@@ -81,3 +81,5 @@ fabric.properties
 wp-config.php
 wp-content/plugins
 wp-content/uploads
+
+node_modules

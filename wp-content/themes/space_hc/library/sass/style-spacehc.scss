@@ -13,6 +13,10 @@ html {
   writing-mode: vertical-rl;
 }
 
+.gmnoprint {
+  //writing-mode: initial;
+}
+
 .sideways {
   text-orientation: sideways-right;
 }
@@ -943,7 +947,8 @@ html {
 }
 
 .content {
-  margin: 30px auto;
+  margin: 80px auto;
+  font-size: 21px;
   .flex {
     display: flex;
     flex-wrap: wrap;
@@ -955,6 +960,13 @@ html {
       margin: 15px;
       overflow: hidden;
     }
+  }
+}
+
+.plan-list {
+  margin: 50px auto 80px;
+  li {
+    margin: 0 3px;
   }
 }
 

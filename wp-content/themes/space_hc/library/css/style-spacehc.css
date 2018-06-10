@@ -768,7 +768,8 @@ html a:hover {
     font-size: 32px; }
 
 .content {
-  margin: 30px auto; }
+  margin: 80px auto;
+  font-size: 21px; }
   .content .flex {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -783,3 +784,8 @@ html a:hover {
       width: 400px;
       margin: 15px;
       overflow: hidden; }
+
+.plan-list {
+  margin: 50px auto 80px; }
+  .plan-list li {
+    margin: 0 3px; }
