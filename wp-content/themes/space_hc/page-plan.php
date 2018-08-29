@@ -45,8 +45,8 @@ date_default_timezone_set('Asia/Tokyo');
             //画像(返り値は「画像ID」)
             $img = get_field('page_img_1');
             $imgurl = wp_get_attachment_image_src($img, 'large'); //サイズは自由に変更してね
-            if($imgurl){ ?><img src="<? echo $imgurl[0]; ?>" alt="">
-            <? }
+            if($imgurl){ ?><img src="<?php echo $imgurl[0]; ?>" alt="">
+            <?php }
             ?>
           <?php the_field('page_img_1_text'); ?>
         </div>
@@ -55,8 +55,8 @@ date_default_timezone_set('Asia/Tokyo');
             //画像(返り値は「画像ID」)
             $img = get_field('page_img_2');
             $imgurl = wp_get_attachment_image_src($img, 'large'); //サイズは自由に変更してね
-            if($imgurl){ ?><img src="<? echo $imgurl[0]; ?>" alt="">
-            <? }
+            if($imgurl){ ?><img src="<?php echo $imgurl[0]; ?>" alt="">
+            <?php }
             ?>
             <?php the_field('page_img_2_text'); ?>
         </div>
@@ -65,8 +65,8 @@ date_default_timezone_set('Asia/Tokyo');
             //画像(返り値は「画像ID」)
             $img = get_field('page_img_3');
             $imgurl = wp_get_attachment_image_src($img, 'large'); //サイズは自由に変更してね
-            if($imgurl){ ?><img src="<? echo $imgurl[0]; ?>" alt="">
-            <? }
+            if($imgurl){ ?><img src="<?php echo $imgurl[0]; ?>" alt="">
+            <?php }
             ?>
             <?php the_field('page_img_3_text'); ?>
         </div>
@@ -75,8 +75,8 @@ date_default_timezone_set('Asia/Tokyo');
             //画像(返り値は「画像ID」)
             $img = get_field('page_img_4');
             $imgurl = wp_get_attachment_image_src($img, 'large'); //サイズは自由に変更してね
-            if($imgurl){ ?><img src="<? echo $imgurl[0]; ?>" alt="">
-            <? }
+            if($imgurl){ ?><img src="<?php echo $imgurl[0]; ?>" alt="">
+            <?php }
             ?>
             <?php the_field('page_img_4_text'); ?>
         </div>

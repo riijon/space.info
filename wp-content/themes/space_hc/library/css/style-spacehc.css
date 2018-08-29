@@ -66,6 +66,14 @@ html a:hover {
       height: 150px;
       width: 150px;
       background: #000; }
+      .swiper-container .swiper-slide .circle svg {
+        position: absolute; }
+        .swiper-container .swiper-slide .circle svg.shirt {
+          left: 35px;
+          top: 30px; }
+        .swiper-container .swiper-slide .circle svg.baby, .swiper-container .swiper-slide .circle svg.kimono {
+          left: 35px;
+          top: 35px; }
   .swiper-container .swiper-pagination {
     bottom: 80px; }
   .swiper-container .swiper-pagination-bullet-active {

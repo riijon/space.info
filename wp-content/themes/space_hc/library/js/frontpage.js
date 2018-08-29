@@ -1,13 +1,13 @@
 var swiper = new Swiper('.swiper-container', {
-  slidesPerView: 3,
-  spaceBetween: 100,
+  slidesPerView: 4,
+  spaceBetween: 95,
   speed: 1000,
   centeredSlides: true,
   loop: true,
-  autoplay: {
-    delay: 2500,
-    disableOnInteraction: false,
-  },
+  // autoplay: {
+  //   delay: 2500,
+  //   disableOnInteraction: false,
+  // },
   pagination: {
     el: '.swiper-pagination',
     clickable: true,
