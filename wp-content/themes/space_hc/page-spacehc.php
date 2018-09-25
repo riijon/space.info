@@ -529,8 +529,8 @@ EOM;
     </div>
 
     <div class="floor-map">
-      <img class="icon_06" src="<?php echo get_template_directory_uri(); ?>/library/images/1x/001.jpg"
-           alt="001.jpg">
+      <img class="icon_06" src="<?php echo get_template_directory_uri(); ?>/library/images/SVG/space-map.svg"
+           alt="floor map">
     </div>
     <div class="arrow-under">
       <img class="icon_07" src="<?php echo get_template_directory_uri(); ?>/library/images/SVG/icon_07.svg"
